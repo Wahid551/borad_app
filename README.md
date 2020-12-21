@@ -1,16 +1,14 @@
-# borad_app
+# board_app
 
-A new Flutter application.
+A new Flutter Board application with Firebase.
+## logo
+<img src='https://user-images.githubusercontent.com/73393935/102793837-454d1100-43cc-11eb-8870-da3da23a8e93.png' width=200 />
 
-## Getting Started
+## Description 
+This app using Real time Data access Fature using Firebase. 
 
-This project is a starting point for a Flutter application.
+## Screenshot
+<img src='https://user-images.githubusercontent.com/73393935/102793396-ab856400-43cb-11eb-87d7-516600be9efa.jpeg' width=280 />  <img src='https://user-images.githubusercontent.com/73393935/102793409-ade7be00-43cb-11eb-8d30-c46d815a3028.jpeg' width=280 />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gif Vedio
+<img src='https://user-images.githubusercontent.com/73393935/102793440-b809bc80-43cb-11eb-8def-1c25631b04d0.gif' width=300 />
