@@ -5,7 +5,7 @@ A new Flutter Board application with Firebase.
 <img src='https://user-images.githubusercontent.com/73393935/102793837-454d1100-43cc-11eb-8870-da3da23a8e93.png' width=200 />
 
 ## Description 
-This app using Real time Data access Fature using Firebase. 
+This app have Real time Data Access feature by using Firebase.
 
 ## Screenshot
 <img src='https://user-images.githubusercontent.com/73393935/102793396-ab856400-43cb-11eb-87d7-516600be9efa.jpeg' width=280 />  <img src='https://user-images.githubusercontent.com/73393935/102793409-ade7be00-43cb-11eb-8d30-c46d815a3028.jpeg' width=280 />
